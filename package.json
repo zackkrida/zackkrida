@@ -10,9 +10,7 @@
     "type": "git",
     "url": "https://github.com/zackkrida/zackkrida.git"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "Zack Krida <zackkrida@protonmail.com> (https://zackkrida.com)",
   "license": "MIT",
