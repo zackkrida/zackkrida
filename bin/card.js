@@ -1,11 +1,8 @@
 #!/usr/bin/env node
-// 👆 Used to tell Node.js that this is a CLI tool
 
-// Pull in our modules
 const chalk = require('chalk')
 const boxen = require('boxen')
 
-// Define options for Boxen
 const options = {
   padding: 1,
   margin: 1,
@@ -15,8 +12,8 @@ const options = {
 // Text + chalk definitions
 const data = {
   name: chalk.white('Zack Krida /'),
-  handle: chalk.cyan('zackkrida'),
-  work: chalk.white('Fullstack developer at Technology Therapy Group'),
+  handle: chalk.cyan('@zackkrida'),
+  work: chalk.white('Fullstack freelance developer'),
   twitter: chalk.cyan('https://twitter.com/zackkrida'),
   github: chalk.cyan('https://github.com/zackkrida'),
   linkedin: chalk.cyan('https://linkedin.com/in/zackkrida'),
