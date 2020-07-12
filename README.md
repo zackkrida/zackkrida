@@ -1,4 +1,4 @@
-![a building](44650035.jpg)
+![a building](https://github.com/zackkrida/zackkrida/raw/master/44650035.jpg)
 
 # Zack Krida
 
