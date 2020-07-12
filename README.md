@@ -1,3 +1,5 @@
+![a building](./44650035.jpg)
+
 # Zack Krida
 
 Hi there, I'm zack! I'm a full-stack developer currently working on the front end of https://search.creativecommons.org.
