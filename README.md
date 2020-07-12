@@ -1,4 +1,4 @@
-![a building](./44650035.jpg)
+![a building](44650035.jpg)
 
 # Zack Krida
 
