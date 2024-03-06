@@ -13,21 +13,6 @@ const options = {
 const data = {
   name: chalk.white('Zack Krida /'),
   handle: chalk.cyan('@zackkrida'),
-  work: chalk.white('Fullstack freelance#!/usr/bin/env node
-
-const chalk = require('chalk')
-const boxen = require('boxen')
-
-const options = {
-  padding: 1,
-  margin: 1,
-  borderStyle: 'round',
-}
-
-// Text + chalk definitions
-const data = {
-  name: chalk.white('Zack Krida /'),
-  handle: chalk.cyan('@zackkrida'),
   work: chalk.white('Building Openverse at WordPress'),
   sponsor: chalk.white('Sponsored by Automattic'),
   github: chalk.cyan('https://github.com/zackkrida'),
